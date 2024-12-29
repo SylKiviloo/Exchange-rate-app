@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Exchange-rate-app/static/css/main.f855e6bc.css",
-    "main.js": "/Exchange-rate-app/static/js/main.b57186f0.js",
-    "static/js/488.09b52bdf.chunk.js": "/Exchange-rate-app/static/js/488.09b52bdf.chunk.js",
-    "static/media/tree-logo.png": "/Exchange-rate-app/static/media/tree-logo.6252b79223384ea9e839.png",
-    "index.html": "/Exchange-rate-app/index.html",
-    "main.f855e6bc.css.map": "/Exchange-rate-app/static/css/main.f855e6bc.css.map",
-    "main.b57186f0.js.map": "/Exchange-rate-app/static/js/main.b57186f0.js.map",
-    "488.09b52bdf.chunk.js.map": "/Exchange-rate-app/static/js/488.09b52bdf.chunk.js.map"
+    "main.css": "/Currency-converter-app/static/css/main.f855e6bc.css",
+    "main.js": "/Currency-converter-app/static/js/main.e9d8568c.js",
+    "static/js/488.09b52bdf.chunk.js": "/Currency-converter-app/static/js/488.09b52bdf.chunk.js",
+    "static/media/tree-logo.png": "/Currency-converter-app/static/media/tree-logo.6252b79223384ea9e839.png",
+    "index.html": "/Currency-converter-app/index.html",
+    "main.f855e6bc.css.map": "/Currency-converter-app/static/css/main.f855e6bc.css.map",
+    "main.e9d8568c.js.map": "/Currency-converter-app/static/js/main.e9d8568c.js.map",
+    "488.09b52bdf.chunk.js.map": "/Currency-converter-app/static/js/488.09b52bdf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b57186f0.js"
+    "static/js/main.e9d8568c.js"
   ]
 }
